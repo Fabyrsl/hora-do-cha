@@ -22,3 +22,29 @@
 margin: 0 16px;
 font-size: 24px;
 }
+
+.escola-imagem{
+    width: 80%;
+    padding: 5px 150px;
+}
+
+.ultimo-cha{
+    width: 80%;
+    padding: 5px 150px ;
+}
+.escola{
+    background-color: #69794F;
+}
+
+.chazinho{
+    background-color: #69794F;
+}
+
+.final-amem{
+    width: 100%;
+    padding: 0px 0px;
+}
+
+.final{
+    background-color: #69794F;
+}
