@@ -1,8 +1,16 @@
+*{ 
+   margin: 0;
+   padding: 0;
+}
+
+
 .cabecalho {
         background-color:#556B2F;
         color:white;
         display: flex;
-        justify-content:space-around ;
+        justify-content:space-around;
+        align-items: center;
+        padding: 24px 0;
         
 }
 
@@ -12,4 +20,31 @@
 
 .cabecalho-lista-item{display: inline-block;
 margin: 0 16px;
+font-size: 24px;
+}
+
+.escola-imagem{
+    width: 80%;
+    padding: 5px 150px;
+}
+
+.ultimo-cha{
+    width: 80%;
+    padding: 5px 150px ;
+}
+.escola{
+    background-color: #69794F;
+}
+
+.chazinho{
+    background-color: #69794F;
+}
+
+.final-amem{
+    width: 100%;
+    padding: 0px 0px;
+}
+
+.final{
+    background-color: #69794F;
 }
